@@ -10,5 +10,9 @@ O texto "Poesias Margareth" é substancialmente maior, com um tamanho original d
 
 Em resumo, o algoritmo de compactação Huffman mostrou-se eficaz na redução do tamanho de ambos os textos sem comprometer a integridade dos dados. Isso pode ser especialmente útil em situações onde o espaço de armazenamento é limitado ou quando a transmissão de dados é mais eficiente com tamanhos menores. No entanto, é importante lembrar que a eficácia da compactação depende do padrão dos dados e que nem todos os tipos de dados podem ser tão bem comprimidos quanto outros.
 
+Componentes:
 
-
+Erico Iago Borges Ramalho
+Leonardo Couto da Escóssia
+Thiago Frank Almeida da Silva
+Vandré Cortês de Oliveira

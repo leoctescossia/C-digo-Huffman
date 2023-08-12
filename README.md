@@ -12,7 +12,7 @@ Em resumo, o algoritmo de compactação Huffman mostrou-se eficaz na redução d
 
 Componentes:
 
-Erico Iago Borges Ramalho \n
+\n Erico Iago Borges Ramalho \n
 Leonardo Couto da Escóssia \n
 Thiago Frank Almeida da Silva \n
 Vandré Cortês de Oliveira \n
